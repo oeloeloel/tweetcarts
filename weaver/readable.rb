@@ -11,7 +11,7 @@ def tick args
   # number of lines to draw
   # 360 lines makes a complete circle. Try setting this to 45
   # to get a better idea of what's happening
-  args.state.number_of_lines = 360
+  args.state.number_of_lines ||= 360
 
   args.state.counter ||= 0 # counts upward in tiny fractions
   center_x ||= 640 # center of the circles
