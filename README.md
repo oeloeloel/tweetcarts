@@ -23,7 +23,7 @@ Readable source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/r
 ![Weaver](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/weaver20fps.gif)
 
 ## Red/Blue Shift
-Companion piece to Gold Shift.
+More colourful companion piece to Gold Shift.
 
 https://twitter.com/Groteskly/status/1385973275440951298?s=20
 
