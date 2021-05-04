@@ -12,7 +12,7 @@ At the time of writing, a new module is being developed for DragonRuby with the 
 # Tweets
 
 ## Weaver
-https://twitter.com/Groteskly/status/1388909952895488000?s=20
+Tweet: https://twitter.com/Groteskly/status/1388909952895488000?s=20
 
 Source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/main.rb
 
@@ -20,14 +20,20 @@ Readable source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/r
 
 ![Weaver](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/weaver20fps.gif)
 
+## Red/Blue Shift
 https://twitter.com/Groteskly/status/1385973275440951298?s=20
 
+## Jagged Flower
 https://twitter.com/Groteskly/status/1383536744646144005?s=20
 
+## Gold Shift
 https://twitter.com/Groteskly/status/1381247966447566850?s=20
 
+## Scribbler
 https://twitter.com/Groteskly/status/1375841823361490944?s=20
 
+## Cascading Squares
 https://twitter.com/Groteskly/status/1373668110482427906?s=20
 
+## Colour Swirl
 https://twitter.com/Groteskly/status/1370904286742380548?s=20
