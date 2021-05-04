@@ -18,6 +18,7 @@ Source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/main.rb
 
 Readable source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/readable.rb
 
+![Weaver](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/weaver20fps.gif)
 
 https://twitter.com/Groteskly/status/1385973275440951298?s=20
 
