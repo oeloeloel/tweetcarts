@@ -9,3 +9,18 @@ My tweetcarts are made using DragonRuby Game Toolkit, which is amazing and I lov
 
 At the time of writing, a new module is being developed for DragonRuby with the goal of allowing extremely compact code. It's not yet final so it's not shipping with DragonRuby. I haven't published any tweets using the new module yet because that would break the rule about not including external resources. However, I may start posting them at some point to highlight what the new module can do. If this is the case I will mark the code as coming FROM THE FUTURE.
 
+# Tweets
+
+https://twitter.com/Groteskly/status/1388909952895488000?s=20
+
+https://twitter.com/Groteskly/status/1385973275440951298?s=20
+
+https://twitter.com/Groteskly/status/1383536744646144005?s=20
+
+https://twitter.com/Groteskly/status/1381247966447566850?s=20
+
+https://twitter.com/Groteskly/status/1375841823361490944?s=20
+
+https://twitter.com/Groteskly/status/1373668110482427906?s=20
+
+https://twitter.com/Groteskly/status/1370904286742380548?s=20
