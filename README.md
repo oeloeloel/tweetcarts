@@ -14,7 +14,7 @@ At the time of writing, a new module is being developed for DragonRuby with the 
 ## Weaver
 My first time using lines in a tweetcart.
 
-Tweet: https://twitter.com/Groteskly/status/1388909952895488000?s=20
+![Tweet](https://twitter.com/Groteskly/status/1388909952895488000)
 
 Source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/main.rb
 
