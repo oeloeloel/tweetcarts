@@ -46,4 +46,6 @@ https://twitter.com/Groteskly/status/1373668110482427906?s=20
 ## Colour Swirl
 The world's first DragonRuby tweetcart!
 
-https://twitter.com/Groteskly/status/1370904286742380548?s=20
+[Tweet](https://twitter.com/Groteskly/status/1370904286742380548?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/readable.rb)
+
+![Colour Swirl](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/colour-swirl.gif)
