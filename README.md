@@ -21,27 +21,27 @@ My first time using lines in a tweetcart.
 ## Red/Blue Shift
 More colourful companion piece to Gold Shift.
 
-https://twitter.com/Groteskly/status/1385973275440951298?s=20
+[Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20)
 
 ## Jagged Flower
 What happens when you rotate things you shouldn't be rotating.
 
-https://twitter.com/Groteskly/status/1383536744646144005?s=20
+[Tweet](https://twitter.com/Groteskly/status/1383536744646144005?s=20)
 
 ## Gold Shift
 Overlaying shifting patterns.
 
-https://twitter.com/Groteskly/status/1381247966447566850?s=20
+[Tweet](https://twitter.com/Groteskly/status/1381247966447566850?s=20)
 
 ## Scribbler
 An actual drawing program that fits in a tweet.
 
-https://twitter.com/Groteskly/status/1375841823361490944?s=20
+[Tweet](https://twitter.com/Groteskly/status/1375841823361490944?s=20)
 
 ## Cascading Squares
 Curtains of cascading colours.
 
-https://twitter.com/Groteskly/status/1373668110482427906?s=20
+[Tweet](https://twitter.com/Groteskly/status/1373668110482427906?s=20)
 
 ## Colour Swirl
 The world's first DragonRuby tweetcart!
