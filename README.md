@@ -14,11 +14,7 @@ At the time of writing, a new module is being developed for DragonRuby with the 
 ## Weaver
 My first time using lines in a tweetcart.
 
-[Tweet](https://twitter.com/Groteskly/status/1388909952895488000)
-
-Source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/main.rb
-
-Readable source code: https://github.com/oeloeloel/tweetcarts/blob/main/weaver/readable.rb
+[Tweet](https://twitter.com/Groteskly/status/1388909952895488000) | [Source code](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/main.rb) | [Readable source code](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/readable.rb)
 
 ![Weaver](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/weaver20fps.gif)
 
