@@ -21,27 +21,27 @@ My first time using lines in a tweetcart.
 ## Red/Cyan Shift
 More colourful companion piece to Gold Shift.
 
-[Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-blue-shift/main.rb) | Readable Source Code | [GIF]()
+[Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-blue-shift/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/red-cyan-shift/red-cyan-shift.gif)
 
 ## Jagged Flower
 What happens when you rotate things you shouldn't be rotating.
 
-[Tweet](https://twitter.com/Groteskly/status/1383536744646144005?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/main.rb) | Readable Source Code | [GIF]()
+[Tweet](https://twitter.com/Groteskly/status/1383536744646144005?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/jagged-flower.gif)
 
 ## Gold Shift
 Overlaying shifting patterns.
 
-[Tweet](https://twitter.com/Groteskly/status/1381247966447566850?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/main.rb) | Readable Source Code | [GIF]()
+[Tweet](https://twitter.com/Groteskly/status/1381247966447566850?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/gold-shift.gif)
 
 ## Scribbler
 An actual drawing program that fits in a tweet.
 
-[Tweet](https://twitter.com/Groteskly/status/1375841823361490944?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/main.rb) | Readable Source Code | [GIF]()
+[Tweet](https://twitter.com/Groteskly/status/1375841823361490944?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/scribbler.gif)
 
 ## Cascading Squares
 Curtains of cascading colours.
 
-[Tweet](https://twitter.com/Groteskly/status/1373668110482427906?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/readable.rb) | [GIF]()
+[Tweet](https://twitter.com/Groteskly/status/1373668110482427906?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/cascading-squares.gif)
 
 ## Colour Swirl
 The world's first DragonRuby tweetcart!
