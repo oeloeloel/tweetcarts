@@ -36,7 +36,7 @@ Overlaying shifting patterns.
 ## Scribbler
 An actual drawing program that fits in a tweet.
 
-[Tweet](https://twitter.com/Groteskly/status/1375841823361490944?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/scribbler.gif)
+[Tweet](https://twitter.com/Groteskly/status/1375841823361490944?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/scribbler/scribbler.gif)
 
 ## Cascading Squares
 Curtains of cascading colours.
