@@ -31,7 +31,7 @@ def tick args
       # force r to be positive (this makes bright interiors to the shapes)
       red = red.abs
 
-      # magnify it so we can see it
+      # scale the colour up so we can see it
       red *= 200
 
       # make the other colours the same but darker
