@@ -21,7 +21,7 @@ My first time using lines in a tweetcart.
 ## Red/Cyan Shift
 More colourful companion piece to Gold Shift.
 
-[Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-blue-shift/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/red-cyan-shift/red-cyan-shift.gif)
+[Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-blue-shift/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-cyan-shift/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/red-cyan-shift/red-cyan-shift.gif)
 
 ## Jagged Flower
 What happens when you rotate things you shouldn't be rotating.
