@@ -26,7 +26,7 @@ More colourful companion piece to Gold Shift.
 ## Jagged Flower
 What happens when you rotate things you shouldn't be rotating.
 
-[Tweet](https://twitter.com/Groteskly/status/1383536744646144005?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/jagged-flower.gif)
+[Tweet](https://twitter.com/Groteskly/status/1383536744646144005?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/jagged-flower/jagged-flower.gif)
 
 ## Gold Shift
 Overlaying shifting patterns.
