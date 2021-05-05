@@ -31,7 +31,7 @@ What happens when you rotate things you shouldn't be rotating.
 ## Gold Shift
 Overlaying shifting patterns.
 
-[Tweet](https://twitter.com/Groteskly/status/1381247966447566850?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/main.rb) | Readable Source Code | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/gold-shift.gif)
+[Tweet](https://twitter.com/Groteskly/status/1381247966447566850?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/gold-shift/gold-shift.gif)
 
 ## Scribbler
 An actual drawing program that fits in a tweet.
