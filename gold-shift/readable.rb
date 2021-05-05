@@ -4,11 +4,9 @@ def tick args
   
   # setup the things that need to be done only once
   args.state.counter ||= 0
-  B||=0
 
-  # count upwards in very tiny steps
+  # count up and down in tiny steps
   args.state.counter += args.tick_count.cos / 1000
-  B += args.tick_count.cos/1000
 
   # draw a grid of dots in the middle of the screen, 12 pixels apart
   110.step(610, 12) do |y|
