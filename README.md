@@ -46,6 +46,4 @@ Curtains of cascading colours.
 ## Colour Swirl
 The world's first DragonRuby tweetcart!
 
-[Tweet](https://twitter.com/Groteskly/status/1370904286742380548?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/readable.rb)
-
-![Colour Swirl](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/colour-swirl.gif)
+[Tweet](https://twitter.com/Groteskly/status/1370904286742380548?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/readable.rb) | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/colour-swirl/colour-swirl.gif)
