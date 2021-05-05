@@ -18,7 +18,7 @@ My first time using lines in a tweetcart.
 
 ![Weaver](https://github.com/oeloeloel/tweetcarts/blob/main/weaver/weaver20fps.gif)
 
-## Red/Blue Shift
+## Red/Cyan Shift
 More colourful companion piece to Gold Shift.
 
 [Tweet](https://twitter.com/Groteskly/status/1385973275440951298?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/red-blue-shift/main.rb)
@@ -41,7 +41,7 @@ An actual drawing program that fits in a tweet.
 ## Cascading Squares
 Curtains of cascading colours.
 
-[Tweet](https://twitter.com/Groteskly/status/1373668110482427906?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/main.rb)
+[Tweet](https://twitter.com/Groteskly/status/1373668110482427906?s=20) | [Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/main.rb) | [Readable Source Code](https://github.com/oeloeloel/tweetcarts/blob/main/cascading-squares/readable.rb) | [GIF]()
 
 ## Colour Swirl
 The world's first DragonRuby tweetcart!
