@@ -29,7 +29,7 @@ def tick args
       red += Math.cos(y - args.state.counter)
 
       # force r to be positive (this makes bright interiors to the shapes)
-      red = r.abs
+      red = red.abs
 
       # magnify it so we can see it
       red *= 200
