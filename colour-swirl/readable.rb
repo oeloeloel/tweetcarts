@@ -31,10 +31,10 @@ def tick args
   args.state.angle += 1.57
 
   # draw 360 sprites
-  args.sprites << 3.times.map do |i|
+  args.sprites << 360.times.map do |i|
 
   # every sprite stays in the same place
-  # each sprite has it's own width and height
+  # each sprite has it's own width and height.
   # only the angle changes every tick
   width = Math.sin(i) * args.state.radius
   height = Math.cos(i) * args.state.radius
@@ -43,7 +43,7 @@ def tick args
   # but if you layer them, they become more
   # visible. This is what creates the illusion
   # of the soft edges
-  alpha = 100
+  alpha = 10
 
   # the colours are derived from the width
   # and height of each sprite
