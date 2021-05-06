@@ -43,7 +43,7 @@ def tick args
   # but if you layer them, they become more
   # visible. This is what creates the illusion
   # of the soft edges
-  alpha = 10
+  alpha = 10 # try setting this to 255
 
   # the colours are derived from the width
   # and height of each sprite
