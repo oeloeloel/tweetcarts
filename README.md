@@ -11,6 +11,16 @@ At the time of writing, a new module is being developed for DragonRuby with the 
 
 # Tweets
 
+## Brightly
+Bright colours, wonky shapes. This is the first tweetcart that uses the fledgeling DragonRuby Tweetcart API.
+
+[Tweet](https://twitter.com/Groteskly/status/1446104052320948232) | [Source code](https://github.com/oeloeloel/tweetcarts/blob/main/brightly/main.rb) | [Readable source code] Not yet | [MP4](https://github.com/oeloeloel/tweetcarts/blob/main/brightly/brightly-2.mp4)
+
+## Ellipsis
+My first time using text in a tweetcart. The whole thing is made by manipulating three dots '. . .'. It's dizzy-making. Don't stare deeply into it.
+
+[Tweet](https://twitter.com/Groteskly/status/1414605997490978816) | [Source code](https://github.com/oeloeloel/tweetcarts/blob/main/ellipsis/main.rb) | [Readable source code] Not yet | [GIF](https://github.com/oeloeloel/tweetcarts/blob/main/ellipsis/ellipsis.gif)
+
 ## Weaver
 My first time using lines in a tweetcart.
 
